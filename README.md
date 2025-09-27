@@ -8,9 +8,9 @@
 
 # 🐍 My Contributions:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashuguptahere/ashuguptahere/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashuguptahere/ashuguptahere/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ashuguptahere/ashuguptahere/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hey-its-ashu/hey-its-ashu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hey-its-ashu/hey-its-ashu/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hey-its-ashu/hey-its-ashu/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
@@ -19,21 +19,21 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashuguptahere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashuguptahere&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuguptahere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hey-its-ashu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hey-its-ashu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-its-ashu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=ashuguptahere&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hey-its-ashu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ashuguptahere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hey-its-ashu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashuguptahere&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hey-its-ashu&icon=0&color=0)](https://visitcount.itsvg.in)
